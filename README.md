@@ -1,6 +1,6 @@
 # Cryptocurrencies
 ## Purpose
-The purpose of this analysis was to determine which cryptocurrencies are actively traded on the trading market and how they can be grouped to create a classification system for investment.
+The purpose of this analysis was to determine which cryptocurrencies are actively being traded and how they can be grouped to create a classification system for investment.
 ## Results
 First, an elbow curve was created in order to find the best value for K so that we could use the K-means algorithm to predict the clusters.
 
