@@ -10,7 +10,7 @@ Additionally, a table was generated to list the tradeable cryptocurrencies and t
 
 ![image](https://github.com/msaunders0/Cryptocurrencies/blob/main/Resources/table.png)
 
-Given the results, 4 clusters were identified and used to classify the cryptocurrencies in question. Then, a scatter plot was used to visualize the results.
+Given the results derived from K-means, 4 clusters were identified and used to classify the cryptocurrencies in question. Then, a scatter plot was used to visualize the results.
 
 ![image](https://github.com/msaunders0/Cryptocurrencies/blob/main/Resources/3dclass.png)
 
